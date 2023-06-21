@@ -10,7 +10,7 @@
 
 <!-- break -->
 
-+ [在线阅读](https://ds-ipynb.apachecn.org)
++ [在线阅读](https://ds-ipynb.flygon.net)
 + [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ds-ipynb)
 + [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/ds-ipynb)
 + [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ds-ipynb)
