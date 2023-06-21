@@ -11,9 +11,9 @@
 <!-- break -->
 
 + [在线阅读](https://ds-ipynb.apachecn.org)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ds-ipynb)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ds-ipynb)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ds-ipynb)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ds-ipynb)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/ds-ipynb)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ds-ipynb)
 + [代码仓库](https://github.com/apachecn/ds-ipynb-zh)
 
 ## 下载
